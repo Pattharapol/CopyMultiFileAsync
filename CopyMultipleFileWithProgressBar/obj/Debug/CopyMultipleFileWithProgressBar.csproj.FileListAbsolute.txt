@@ -1,0 +1,15 @@
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\CopyMultipleFileWithProgressBar.exe.config
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\CopyMultipleFileWithProgressBar.exe
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\CopyMultipleFileWithProgressBar.pdb
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\mscorlib.dll
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\normidna.nlp
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\normnfc.nlp
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\normnfd.nlp
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\normnfkc.nlp
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\bin\Debug\normnfkd.nlp
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\obj\Debug\CopyMultipleFileWithProgressBar.csprojResolveAssemblyReference.cache
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\obj\Debug\CopyMultipleFileWithProgressBar.Form1.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\obj\Debug\CopyMultipleFileWithProgressBar.Properties.Resources.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\obj\Debug\CopyMultipleFileWithProgressBar.csproj.GenerateResource.Cache
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\obj\Debug\CopyMultipleFileWithProgressBar.exe
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\CopyMultipleFileWithProgressBar\CopyMultipleFileWithProgressBar\obj\Debug\CopyMultipleFileWithProgressBar.pdb
